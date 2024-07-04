@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi  Hello, I'm Sai Pranavi Jeedigunta! 👋
 
-<!--
-**SaiPranaviJeedigunta/SaiPranaviJeedigunta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm Sai Pranavi Jeedigunta, pursuing a Master's degree in Information Systems at Northeastern University with a background in Computer Science Engineering. I'm deeply passionate about leveraging data to solve real-world problems. Explore my GitHub profile to discover a collection of data-centric projects. Feel free to explore and contribute to any repositories.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Get in Touch
+
+- **Email 📧:** jeedigunta.s@northeastern.edu
+- **LinkedIn 💬:** [linkedin.com/in/pranavijeedigunta](https://www.linkedin.com/in/pranavijeedigunta)
+
+## Open to Collaboration
+I'm open to collaborating on compelling projects. If you have an idea or need assistance with any of my current projects, please feel free to reach out. I look forward to working together!
+
+## Thank You for Visiting
+
+
