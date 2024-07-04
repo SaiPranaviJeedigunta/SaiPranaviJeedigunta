@@ -11,6 +11,4 @@ Hello! I'm Sai Pranavi Jeedigunta, pursuing a Master's degree in Information Sys
 ## Open to Collaboration
 I'm open to collaborating on compelling projects. If you have an idea or need assistance with any of my current projects, please feel free to reach out. I look forward to working together!
 
-## Thank You for Visiting
-
 
