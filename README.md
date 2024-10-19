@@ -9,8 +9,9 @@ Hello! I'm Sai Pranavi Jeedigunta, pursuing a Master's degree in Information Sys
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
 </a>
 <a href="mailto:jeedigunta.s@northeastern.edu" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Email_icon.svg" alt="Email" height="30" width="40" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Email_icon.svg" alt="Email Icon" height="30" width="40" />
 </a>
+
 
 ## Open to Collaboration
 I'm open to collaborating on compelling projects. If you have an idea or need assistance with any of my current projects, please feel free to reach out. I look forward to working together!
